@@ -1,0 +1,8 @@
+ 将报名树状输出 举例：
+ 			输入：com.hp.cm.dao;com.hp.cm.api;com.hp.cc.util
+ 			输出：com.hp
+ 					 -cm
+ 					 	-dao
+ 					 	-api
+ 					 -cc
+ 					 	-util
